@@ -52,7 +52,7 @@
         "typescript": "^4.0.2"
     },
     "dependencies": {
-        "@balancer-labs/sor": "github:wavelength-velas/balancer-sor",
+        "@balancer-labs/sor": "github:defistars/balancer-sor",
         "@ethersproject/abi": "^5.5.0",
         "@ethersproject/abstract-signer": "^5.5.0",
         "@ethersproject/contracts": "^5.5.0",
